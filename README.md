@@ -1,6 +1,6 @@
-# H2 Computing
+# Computing Fundamentals
 
-Notes and practice for Singapore A-level H2 Computing.
+Notes and practice on computing fundamentals.
 
 **Topics**
 - **data structures**
@@ -10,4 +10,4 @@ Notes and practice for Singapore A-level H2 Computing.
 
 Each topic has a **COMPLETE** worked notebook and a **PRACTICE** notebook (blanks to fill in), plus tested utility modules.
 
-Written in 2022, for the H2 Computing syllabus of that year — some content reflects that vintage.
+Written for the H2 Computing syllabus of 2022.
